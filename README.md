@@ -1,4 +1,4 @@
-# PLUS Retail STARR 1 - TDD Pass Verifier
+# TDD Pass Verifier
 *Winc Academy basic testing opdracht*
 
 ## Situatie
